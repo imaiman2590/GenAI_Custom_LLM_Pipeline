@@ -1,5 +1,5 @@
 ````markdown
-# 🚀 Hugging Face Model Training & Inference API (Multi-Modal)
+🚀 Hugging Face Model Training & Inference API (Multi-Modal)
 
 This project lets you **fine-tune and use Hugging Face models** for **text**, **documents**, or **images** — all through a simple **FastAPI backend**. Whether you're working with plain text, PDFs, Word documents, or images, this pipeline adapts automatically based on the model you're using.
 
@@ -7,7 +7,7 @@ It also includes **Prometheus metrics** for monitoring document extraction perfo
 
 ---
 
-## 🔧 What This Project Can Do
+ 🔧 What This Project Can Do
 
 - **Choose any Hugging Face model at runtime** — like T5, GPT-2, BART, LayoutLMv3, ViT, and more.
 - **Supports multiple input types:** text, documents (PDF/DOCX via LayoutLMv3), and images.
@@ -17,7 +17,7 @@ It also includes **Prometheus metrics** for monitoring document extraction perfo
 
 ---
 
-## 🗂 Project Structure
+ 🗂 Project Structure
 
 Here's a quick look at the main files:
 
