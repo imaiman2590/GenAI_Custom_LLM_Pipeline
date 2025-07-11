@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+datasets
+torch
+pillow
+PyPDF2
+python-docx
+prometheus-client
+streamlit
